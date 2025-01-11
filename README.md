@@ -9,4 +9,4 @@ Gold/USD price data for 1950-2017 was sourced from [datahub.io](https://datahub.
 The median wage data came from the St. Louis Federal Reserve: [Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: 16 years and over](https://fred.stlouisfed.org/series/LEU0252881500Q)
 
 ##### Rationale for using gold to normalize nominal -> real wages
-I'm not a goldbug bug I think gold is a reasonable proxy for real wages. Gold is unambiguous (it's an element on the periodic table), it has good price data available, and the ratio of gold to the price of other goods and services stays relatively stable over time.
+I'm not a goldbug bug I think that gold is a reasonable proxy for real wages. Gold is unambiguous (it's an element on the periodic table), it has good price data available, and the ratio of gold to the price of other goods and services stays relatively stable over time.
